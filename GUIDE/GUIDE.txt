@@ -1,0 +1,4 @@
+-unzip the .zip File
+-open terminal 
+-npm install
+-npm start
